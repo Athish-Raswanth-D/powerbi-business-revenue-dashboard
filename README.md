@@ -40,4 +40,4 @@ This dashboard can be used by business and service teams to:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2026-02-05 124744.png)
+(Screenshot 2026-02-05 124744.png)
