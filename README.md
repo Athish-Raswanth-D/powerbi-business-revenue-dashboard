@@ -1,11 +1,10 @@
 # Business & Revenue Analytics Dashboard (Power BI)
-
+https://github.com/Athish-Raswanth-D/powerbi-business-revenue-dashboard/blob/main/Screenshot%202026-02-05%20124744.png
 ## 📌 Overview
 This project focuses on analyzing business revenue performance using Power BI.  
 The dashboard provides insights into revenue trends, category performance, brand contribution, discount impact, and sales events to support data-driven decision-making.
 
 ---
-
 ## 📊 Key Features
 - Revenue analysis by product category
 - Year-over-year revenue trends
@@ -40,4 +39,4 @@ This dashboard can be used by business and service teams to:
 ---
 
 ## 📷 Dashboard Preview
-(Screenshot 2026-02-05 124744.png)
+
